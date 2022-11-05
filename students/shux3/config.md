@@ -15,9 +15,9 @@ none
 ### `/lab2b/part04/status`
 not-started
 ### `/lab2b/part05/link`
-none
+https://github.com/skyfall88888/ese5190-2022-lab2b-esp-YF/blob/main/2B_part5_i2c.jpg
 ### `/lab2b/part05/status`
-not-started
+Completed
 ### `/lab2b/part06/link`
 none
 ### `/lab2b/part06/status`
